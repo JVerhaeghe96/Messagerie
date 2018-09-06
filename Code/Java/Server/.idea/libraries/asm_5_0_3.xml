@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="asm-5.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libCassandra/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/asm-commons-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/asm-util-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/cassandra-driver-core-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/jffi-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/jnr-constants-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/jnr-ffi-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/jnr-posix-3.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/jnr-x86asm-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/metrics-core-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/netty-buffer-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/netty-codec-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/netty-common-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/netty-handler-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/netty-transport-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libCassandra/slf4j-simple-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

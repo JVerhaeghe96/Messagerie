@@ -1,0 +1,9 @@
+create keyspace messagerie with replication = {'class':'SimpleStrategy','replication_factor':1};
+create table messages (
+               sender text,
+               receiver text,
+               message text,
+               date_message timeuuid,
+               primary key((sender),date_message))
+               with clustering order by (date_message desc);
+create index ind_receiver on messagerie.messages(receiver);
